@@ -1,6 +1,11 @@
 # sum-of-numbers
-A mini project to train my JavaScript skills, where you can sum 2 numbers.
 
+## 🇧🇷
+Um projeto pra treinar as habilidades com o JavaScript, nele você pode somar 2 números.
+Você pode conferir clicando neste link: https://rudzzz.github.io/sum-of-numbers/
+
+## 🇺🇸
+A mini project to train my JavaScript skills, where you can sum 2 numbers.
 you can check it out by clicking in this link: https://rudzzz.github.io/sum-of-numbers/
 
 ##
